@@ -1,15 +1,14 @@
 ---
-id: javascript.commonjs
-type: concept
+type: Concept
 title: CommonJS
-description: The require/module.exports module system used in Node.js, compared conceptually with ES modules.
+description: "The require/module.exports module system used in Node.js, compared conceptually with ES modules."
 tags: [javascript, modules, commonjs, node]
 prerequisites:
-  - javascript.modules
+  - concepts/modules
 related:
-  - javascript.import_export
-  - javascript.runtime_evaluation
-resource: https://nodejs.org/api/modules.html
+  - concepts/import_export
+  - concepts/runtime_evaluation
+resource: "https://nodejs.org/api/modules.html"
 timestamp: 2026-01-01
 ---
 

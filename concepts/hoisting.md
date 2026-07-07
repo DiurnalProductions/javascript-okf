@@ -1,16 +1,15 @@
 ---
-id: javascript.hoisting
-type: concept
+type: Concept
 title: Hoisting
 description: How declarations are registered in scope during the creation phase before code execution runs.
 tags: [javascript, fundamentals, hoisting, execution]
 prerequisites:
-  - javascript.scope
-  - javascript.variables
+  - concepts/scope
+  - concepts/variables
 related:
-  - javascript.functions
-  - javascript.execution_context
-resource: https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+  - concepts/functions
+  - concepts/execution_context
+resource: "https://developer.mozilla.org/en-US/docs/Glossary/Hoisting"
 timestamp: 2026-01-01
 ---
 

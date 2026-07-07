@@ -1,15 +1,14 @@
 ---
-id: javascript.coercion
-type: concept
+type: Concept
 title: Coercion
 description: How JavaScript converts values between types implicitly and explicitly at runtime.
 tags: [javascript, fundamentals, types, coercion]
 prerequisites:
-  - javascript.data_types
+  - concepts/data_types
 related:
-  - javascript.variables
-  - javascript.promises
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#type_coercion
+  - concepts/variables
+  - concepts/promises
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#type_coercion"
 timestamp: 2026-01-01
 ---
 

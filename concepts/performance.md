@@ -1,17 +1,16 @@
 ---
-id: javascript.performance
-type: concept
+type: Concept
 title: Performance Considerations
-description: Main-thread constraints, allocation patterns, async scheduling, and practical JavaScript performance habits.
+description: "Main-thread constraints, allocation patterns, async scheduling, and practical JavaScript performance habits."
 tags: [javascript, performance, optimization, async]
 prerequisites:
-  - javascript.event_loop
-  - javascript.garbage_collection
-  - javascript.memory_model
+  - concepts/event_loop
+  - concepts/garbage_collection
+  - concepts/memory_model
 related:
-  - javascript.promises
-  - javascript.closures
-resource: https://developer.mozilla.org/en-US/docs/Web/Performance
+  - concepts/promises
+  - concepts/closures
+resource: "https://developer.mozilla.org/en-US/docs/Web/Performance"
 timestamp: 2026-01-01
 ---
 

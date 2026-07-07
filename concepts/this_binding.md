@@ -1,16 +1,15 @@
 ---
-id: javascript.this_binding
-type: concept
+type: Concept
 title: This Binding
-description: How the runtime determines the value of this based on call site, not definition site.
+description: "How the runtime determines the value of this based on call site, not definition site."
 tags: [javascript, this, functions, execution]
 prerequisites:
-  - javascript.functions
-  - javascript.execution_context
+  - concepts/functions
+  - concepts/execution_context
 related:
-  - javascript.closures
-  - javascript.objects
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+  - concepts/closures
+  - concepts/objects
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this"
 timestamp: 2026-01-01
 ---
 

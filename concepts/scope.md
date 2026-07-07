@@ -1,16 +1,15 @@
 ---
-id: javascript.scope
-type: concept
+type: Concept
 title: Scope
-description: Lexical scope, block scope, and how the engine resolves identifiers through nested environments.
+description: "Lexical scope, block scope, and how the engine resolves identifiers through nested environments."
 tags: [javascript, fundamentals, scope, lexical]
 prerequisites:
-  - javascript.variables
+  - concepts/variables
 related:
-  - javascript.hoisting
-  - javascript.closures
-  - javascript.functions
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#description
+  - concepts/hoisting
+  - concepts/closures
+  - concepts/functions
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#description"
 timestamp: 2026-01-01
 ---
 

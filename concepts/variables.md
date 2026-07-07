@@ -1,15 +1,13 @@
 ---
-id: javascript.variables
-type: concept
+type: Concept
 title: Variables
-description: Declaring and binding names to values using let, const, and var in modern JavaScript.
+description: "Declaring and binding names to values using let, const, and var in modern JavaScript."
 tags: [javascript, fundamentals, es6, bindings]
-prerequisites: []
 related:
-  - javascript.scope
-  - javascript.data_types
-  - javascript.hoisting
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+  - concepts/scope
+  - concepts/data_types
+  - concepts/hoisting
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
 timestamp: 2026-01-01
 ---
 

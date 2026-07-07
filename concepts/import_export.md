@@ -1,15 +1,14 @@
 ---
-id: javascript.import_export
-type: concept
+type: Concept
 title: Import and Export
-description: Static export declarations, import forms, re-exports, and live binding semantics in ES modules.
+description: "Static export declarations, import forms, re-exports, and live binding semantics in ES modules."
 tags: [javascript, modules, import, export]
 prerequisites:
-  - javascript.modules
+  - concepts/modules
 related:
-  - javascript.runtime_evaluation
-  - javascript.scope
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+  - concepts/runtime_evaluation
+  - concepts/scope
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import"
 timestamp: 2026-01-01
 ---
 

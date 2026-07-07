@@ -1,15 +1,14 @@
 ---
-id: javascript.promises
-type: concept
+type: Concept
 title: Promises
 description: Deferred single-result values with settled states and microtask-scheduled reactions.
 tags: [javascript, async, promises, es6]
 prerequisites:
-  - javascript.event_loop
+  - concepts/event_loop
 related:
-  - javascript.async_await
-  - javascript.coercion
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+  - concepts/async_await
+  - concepts/coercion
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
 timestamp: 2026-01-01
 ---
 

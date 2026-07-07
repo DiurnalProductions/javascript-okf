@@ -1,16 +1,15 @@
 ---
-id: javascript.runtime_evaluation
-type: concept
+type: Concept
 title: Runtime Module Evaluation
-description: How the JavaScript engine loads, links, and evaluates modules in dependency order.
+description: "How the JavaScript engine loads, links, and evaluates modules in dependency order."
 tags: [javascript, modules, runtime, evaluation]
 prerequisites:
-  - javascript.import_export
-  - javascript.modules
+  - concepts/import_export
+  - concepts/modules
 related:
-  - javascript.execution_context
-  - javascript.hoisting
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#applying_the_module_to_your_html
+  - concepts/execution_context
+  - concepts/hoisting
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#applying_the_module_to_your_html"
 timestamp: 2026-01-01
 ---
 

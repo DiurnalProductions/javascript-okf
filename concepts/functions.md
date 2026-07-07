@@ -1,17 +1,16 @@
 ---
-id: javascript.functions
-type: concept
+type: Concept
 title: Functions
-description: Function declarations, expressions, arrow functions, and how callable objects participate in execution.
+description: "Function declarations, expressions, arrow functions, and how callable objects participate in execution."
 tags: [javascript, functions, es6, execution]
 prerequisites:
-  - javascript.scope
-  - javascript.hoisting
+  - concepts/scope
+  - concepts/hoisting
 related:
-  - javascript.closures
-  - javascript.this_binding
-  - javascript.execution_context
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+  - concepts/closures
+  - concepts/this_binding
+  - concepts/execution_context
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"
 timestamp: 2026-01-01
 ---
 

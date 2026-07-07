@@ -1,17 +1,16 @@
 ---
-id: javascript.execution_context
-type: concept
+type: Concept
 title: Execution Context
-description: The runtime frame for executing code, including the call stack, environment records, and this binding.
+description: "The runtime frame for executing code, including the call stack, environment records, and this binding."
 tags: [javascript, execution, runtime, call-stack]
 prerequisites:
-  - javascript.functions
-  - javascript.scope
+  - concepts/functions
+  - concepts/scope
 related:
-  - javascript.closures
-  - javascript.this_binding
-  - javascript.event_loop
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Scopes
+  - concepts/closures
+  - concepts/this_binding
+  - concepts/event_loop
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Scopes"
 timestamp: 2026-01-01
 ---
 

@@ -1,15 +1,14 @@
 ---
-id: javascript.prototypes
-type: concept
+type: Concept
 title: Prototypes
-description: The prototype chain, [[Prototype]] links, and how JavaScript delegates property lookup.
+description: "The prototype chain, [[Prototype]] links, and how JavaScript delegates property lookup."
 tags: [javascript, prototypes, object-model]
 prerequisites:
-  - javascript.objects
-  - javascript.functions
+  - concepts/objects
+  - concepts/functions
 related:
-  - javascript.inheritance_model
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+  - concepts/inheritance_model
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain"
 timestamp: 2026-01-01
 ---
 

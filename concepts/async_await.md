@@ -1,15 +1,14 @@
 ---
-id: javascript.async_await
-type: concept
+type: Concept
 title: Async/Await
 description: Syntactic sugar for writing Promise-based asynchronous code with suspend and resume semantics.
 tags: [javascript, async, await, es2017]
 prerequisites:
-  - javascript.promises
+  - concepts/promises
 related:
-  - javascript.event_loop
-  - javascript.promises
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+  - concepts/event_loop
+  - concepts/promises
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"
 timestamp: 2026-01-01
 ---
 

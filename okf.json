@@ -1,8 +1,0 @@
-{
-  "id": "javascript-okf",
-  "name": "JavaScript Knowledge Pack",
-  "version": "0.1",
-  "description": "OKF knowledge base for modern JavaScript (ES6+, runtime model, async, modules)",
-  "entry": "index.md",
-  "tags": ["javascript", "js", "es6", "async", "web", "programming"]
-}

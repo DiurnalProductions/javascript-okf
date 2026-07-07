@@ -1,15 +1,14 @@
 ---
-id: javascript.garbage_collection
-type: concept
+type: Concept
 title: Garbage Collection
 description: How JavaScript runtimes reclaim heap memory when objects are no longer reachable.
 tags: [javascript, memory, gc, runtime]
 prerequisites:
-  - javascript.memory_model
+  - concepts/memory_model
 related:
-  - javascript.closures
-  - javascript.performance
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management
+  - concepts/closures
+  - concepts/performance
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management"
 timestamp: 2026-01-01
 ---
 

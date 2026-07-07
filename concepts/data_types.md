@@ -1,15 +1,14 @@
 ---
-id: javascript.data_types
-type: concept
+type: Concept
 title: Data Types
-description: Primitive and object types in JavaScript, including typeof behavior and value vs. reference semantics.
+description: "Primitive and object types in JavaScript, including typeof behavior and value vs. reference semantics."
 tags: [javascript, fundamentals, types, primitives]
 prerequisites:
-  - javascript.variables
+  - concepts/variables
 related:
-  - javascript.coercion
-  - javascript.objects
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+  - concepts/coercion
+  - concepts/objects
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures"
 timestamp: 2026-01-01
 ---
 

@@ -1,3 +1,12 @@
+---
+okf_version: "0.1"
+id: javascript-okf
+name: JavaScript Knowledge Pack
+version: "0.1"
+description: "OKF knowledge base for modern JavaScript (ES6+, runtime model, async, modules)"
+tags: [javascript, js, es6, async, web, programming]
+---
+
 # JavaScript Knowledge Pack
 
 A graph-based learning module for modern JavaScript (ES6+), the runtime execution model, asynchronous behavior, and module systems.

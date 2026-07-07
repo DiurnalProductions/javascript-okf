@@ -1,17 +1,16 @@
 ---
-id: javascript.closures
-type: concept
+type: Concept
 title: Closures
 description: Functions that retain access to variables from their enclosing lexical scope after the outer function returns.
 tags: [javascript, closures, scope, functions]
 prerequisites:
-  - javascript.functions
-  - javascript.scope
-  - javascript.execution_context
+  - concepts/functions
+  - concepts/scope
+  - concepts/execution_context
 related:
-  - javascript.memory_model
-  - javascript.this_binding
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+  - concepts/memory_model
+  - concepts/this_binding
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
 timestamp: 2026-01-01
 ---
 

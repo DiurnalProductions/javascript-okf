@@ -1,16 +1,15 @@
 ---
-id: javascript.objects
-type: concept
+type: Concept
 title: Objects
-description: Plain objects, property descriptors, references, and how key-value collections behave at runtime.
+description: "Plain objects, property descriptors, references, and how key-value collections behave at runtime."
 tags: [javascript, objects, data-structures]
 prerequisites:
-  - javascript.data_types
-  - javascript.variables
+  - concepts/data_types
+  - concepts/variables
 related:
-  - javascript.prototypes
-  - javascript.this_binding
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+  - concepts/prototypes
+  - concepts/this_binding
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
 timestamp: 2026-01-01
 ---
 

@@ -1,15 +1,14 @@
 ---
-id: javascript.inheritance_model
-type: concept
+type: Concept
 title: Inheritance Model
-description: Prototypal inheritance, class syntax, extends, and how behavior is shared in JavaScript.
+description: "Prototypal inheritance, class syntax, extends, and how behavior is shared in JavaScript."
 tags: [javascript, inheritance, class, prototypes]
 prerequisites:
-  - javascript.prototypes
+  - concepts/prototypes
 related:
-  - javascript.objects
-  - javascript.this_binding
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+  - concepts/objects
+  - concepts/this_binding
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes"
 timestamp: 2026-01-01
 ---
 

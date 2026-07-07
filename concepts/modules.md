@@ -1,16 +1,15 @@
 ---
-id: javascript.modules
-type: concept
+type: Concept
 title: ES Modules
-description: ECMAScript modules with static structure, strict mode, and isolated module scope.
+description: "ECMAScript modules with static structure, strict mode, and isolated module scope."
 tags: [javascript, modules, esm, es6]
 prerequisites:
-  - javascript.execution_context
+  - concepts/execution_context
 related:
-  - javascript.import_export
-  - javascript.runtime_evaluation
-  - javascript.commonjs
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+  - concepts/import_export
+  - concepts/runtime_evaluation
+  - concepts/commonjs
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules"
 timestamp: 2026-01-01
 ---
 

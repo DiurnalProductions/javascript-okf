@@ -1,16 +1,15 @@
 ---
-id: javascript.memory_model
-type: concept
+type: Concept
 title: Memory Model Basics
-description: Stack vs. heap storage, references, bindings, and how values live in the JavaScript runtime.
+description: "Stack vs. heap storage, references, bindings, and how values live in the JavaScript runtime."
 tags: [javascript, memory, runtime, performance]
 prerequisites:
-  - javascript.execution_context
-  - javascript.closures
+  - concepts/execution_context
+  - concepts/closures
 related:
-  - javascript.garbage_collection
-  - javascript.data_types
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management
+  - concepts/garbage_collection
+  - concepts/data_types
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management"
 timestamp: 2026-01-01
 ---
 

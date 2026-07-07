@@ -1,16 +1,15 @@
 ---
-id: javascript.event_loop
-type: concept
+type: Concept
 title: Event Loop
-description: How JavaScript schedules asynchronous work on a single thread using the call stack, task queues, and microtasks.
+description: "How JavaScript schedules asynchronous work on a single thread using the call stack, task queues, and microtasks."
 tags: [javascript, async, event-loop, concurrency]
 prerequisites:
-  - javascript.execution_context
+  - concepts/execution_context
 related:
-  - javascript.promises
-  - javascript.async_await
-  - javascript.performance
-resource: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop
+  - concepts/promises
+  - concepts/async_await
+  - concepts/performance
+resource: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop"
 timestamp: 2026-01-01
 ---
 
